@@ -1,0 +1,5 @@
+{
+  "name": "Thepsatri Nurse Portal",
+  "description": "A comprehensive dashboard for hospital nurses to manage shifts, track working hours, view staff on duty, and communicate with the AI shift assistant.",
+  "requestFramePermissions": []
+}
